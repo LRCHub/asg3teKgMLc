@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "おねがいダーリン",
+  "base_artist": "P丸様｡",
+  "createdAt": "2025-12-18T14:47:59.449732Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おねがいダーリン",
+      "artist": "P丸様｡",
+      "has_synced": true,
+      "path": "select/01_おねがいダーリン_P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おねがいダーリン",
+      "artist": "ONE",
+      "has_synced": false,
+      "path": "select/02_おねがいダーリン_ONE.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "おねがいダーリン",
+      "artist": "Pmarusama",
+      "has_synced": true,
+      "path": "select/03_おねがいダーリン_Pmarusama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "おねがいダーリン",
+      "artist": "あやぽんず＊",
+      "has_synced": false,
+      "path": "select/04_おねがいダーリン_あやぽんず.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おねがいダーリン",
+      "artist": "P丸様。",
+      "has_synced": false,
+      "path": "select/pl_01_おねがいダーリン_P丸様。.txt"
+    }
+  ]
+}
